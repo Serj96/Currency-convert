@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/Currency-convert/static/css/main.7acaea2f.css",
+    "main.js": "/Currency-convert/static/js/main.07d3183d.js",
+    "index.html": "/Currency-convert/index.html",
+    "main.7acaea2f.css.map": "/Currency-convert/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Currency-convert/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
